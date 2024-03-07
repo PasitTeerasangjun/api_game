@@ -116,7 +116,7 @@ class _TableState extends State<Tablegame> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Center(child: Text('Classroom')),
+        title: const Center(child: Text('Play Station list game')),
       ),
       body: Center(
         child: _buildPageBody(),
